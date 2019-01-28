@@ -35,3 +35,5 @@ bld/
 [Ll]og/
 .suo
 .user
+Data driven app/Data driven app/main.cpp
+sampleTweets.csv
